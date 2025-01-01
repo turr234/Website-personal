@@ -1,0 +1,73 @@
+body {
+    background: linear-gradient( red 0%, yellow 30%, blue 100%);
+}
+
+.provile{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 100px;
+}
+
+.profileimage {
+    width: 200px;
+}
+
+.provile h2 {
+    color: black;
+    margin-top: 20px;
+}
+
+.provile h4 {
+    color: black;
+}
+
+.biodata {
+    background: linear-gradient(#fffeff 0%, #ffffffd5 40%, #fdfdfd00 100%);
+    padding-bottom: 600px;
+    margin-bottom: 30px;
+}
+
+.row {
+    padding: 0px 10px;
+}
+
+.footer {
+    background-color: white;
+    padding-bottom: 20px;
+}
+
+.contact a{
+    color: black;
+    font-size: 20px;
+}
+
+
+.watermark {
+    padding-top: 30px;
+}
+.button {
+    padding: 100px;
+    padding-right: 350px;
+}
+
+.gelar {
+    background-color: rgb(171, 171, 33);
+}
+
+.bagian {
+    margin: 15px;
+}
+
+.dua {
+    margin: 15px;
+}
+
+.tiga {
+    margin: 15px;
+}
+
+.empat {
+    margin: 15px;
+}
